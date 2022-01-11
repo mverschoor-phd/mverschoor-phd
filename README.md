@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Meghan Verschoor!</h1>
 <h3 align="center">Medical Scientist with over 8 years of experience in cell & gene therapy, preclinical product development, early phase clinical development, and using data to make insightful decisions. Passion for innovation in cellular medicine that addresses unmet therapeutic needs to improve the lives of patients.</h3>
 
-- 🔭 I’m currently working on **machine learning models for predictive analytics in cell therapy.**
+- 🔭 I’m currently working on: **machine learning models for predictive analytics in cell therapy.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/meghanverschoor/](https://www.linkedin.com/in/meghanverschoor/)
+- 📄 Know about my experiences on my LinkedIn: [https://www.linkedin.com/in/meghanverschoor/](https://www.linkedin.com/in/meghanverschoor/)
 
-- ⚡ Fun fact **I collect rare plants and love video games!**
+- ⚡ Fun fact: **I collect rare plants and love video games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
