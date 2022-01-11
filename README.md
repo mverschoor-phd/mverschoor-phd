@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Meghan Verschoor, PhD!</h1>
-<h3 align="center">Medical Scientist with over 8 years of experience in cell & gene therapy, preclinical product development, early phase clinical development, and using data to make insightful decisions. Passion for innovation in cellular medicine that addresses unmet therapeutic needs to improve the lives of patients.</h3>
+<h1 align="center">Hi, I'm Dr. Meghan Verschoor!</h1>
+<h3 align="center">Medical Scientist with over 12 years of experience in cancer research, cell & gene therapy, preclinical product development, early phase clinical development, and using data to make insightful decisions. Passion for innovation in cellular medicine that addresses unmet therapeutic needs to improve the lives of patients.</h3>
 
 - 🔭 I’m currently working on: **machine learning models for predictive analytics in cell therapy.**
 
