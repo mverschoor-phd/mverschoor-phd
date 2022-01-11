@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences on my LinkedIn: [https://www.linkedin.com/in/meghanverschoor/](https://www.linkedin.com/in/meghanverschoor/)
 
-- ⚡ Fun fact: **I collect rare plants and love video games!**
+- ⚡ Fun fact: **I collect rare plants and love any video game with a great story**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
